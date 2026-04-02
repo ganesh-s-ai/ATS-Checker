@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Checker",
+  "description": "An ATS-friendly resume checker and recommendation system that analyzes resumes and provides actionable insights.",
+  "requestFramePermissions": []
+}
